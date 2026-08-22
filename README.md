@@ -1,4 +1,4 @@
-# E-Commerce-Customer-Retention-CLV-Dashboard
+# E-Commerce-Customer-Retention-CLV
 End-to-end Data Analyst project using SQL, Python and Power BI
 
                       
